@@ -1,6 +1,6 @@
 {
-    "name": "carte",
-    "description": "Simple API reference",
+    "name": "NewsPipe",
+    "description": "A complete pipeline for training german text generators",
     "version": "0.0.1",
     "local": ["boot"],
     "paths": ["lib"]
