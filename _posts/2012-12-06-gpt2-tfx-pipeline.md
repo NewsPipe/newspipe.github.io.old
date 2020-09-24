@@ -1,6 +1,6 @@
 ---
 title: 'gpt2-tfx-pipeline'
-type: 'PYTHON'
+type: 'PYTHON & TF'
 layout: null
 ---
 
