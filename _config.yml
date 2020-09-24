@@ -4,4 +4,3 @@ permalink: ':title'
 highlighter: pygments
 safe: false
 title: 'NewsPipe'
-description: 'A complete pipeline for training german text generators'
