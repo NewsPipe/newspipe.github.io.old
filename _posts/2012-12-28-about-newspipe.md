@@ -1,5 +1,5 @@
 ---
-title: 'What is newspipe?'
+title: 'What is NewsPipe?'
 
 layout: null
 ---
