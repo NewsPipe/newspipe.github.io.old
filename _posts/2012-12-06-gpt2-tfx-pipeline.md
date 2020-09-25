@@ -44,7 +44,7 @@ tensorboard --logdir ./outputs```
 
 ## List of available models
 
-Look at the [Paper](https://openai.com/blog/better-language-models/) for performance details. Choose the model depending on your resources. Insert the model name as string value for ``model_name`` in your pipeline.
+Look at the [Paper](https://openai.com/blog/better-language-models/) for performance details. Choose the model depending on your resources. Insert the model name as string value for model_name in your pipeline.
 
 | Model Name        | Layers | Comments                                                     |
 | ----------------- | ------ | ------------------------------------------------------------ |
