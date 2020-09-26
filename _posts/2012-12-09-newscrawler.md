@@ -19,9 +19,9 @@ Alternatively, you can install this library from the PyPI repository with:
 ```pip install NewsCrawler3```
 
 ## Examples
-```>>> from newscrawler import Crawler
->>> crawler = Crawler("zeit.de")
->>> crawler.get_article_information_as_dataframe()
+```from newscrawler import Crawler
+crawler = Crawler("zeit.de")
+crawler.get_article_information_as_dataframe()
                                         title  ...                                               text
 0     Wolf Biermann: Wolf, hast du Angst vor dem Tod?  ...  Dass der Liedermacher Wolf Biermann noch am Le...
 1              Österreich: Sie wollen doch nur helfen  ...  Wenn Wien und die ÖVP aufeinandertreffen, dann...
@@ -39,5 +39,5 @@ Alternatively, you can install this library from the PyPI repository with:
 13  Gymnastiklehrerin: "Meine Perspektive: stilvol...  ...  Der Ausbruch des Coronavirus verändert für vie...
 14  Bürgerkriegsflüchtlinge: Obergrenze für Famili...  ...  Die Obergrenze für den Familiennachzug von sub...
 [15 rows x 7 columns]
->>> crawler.get_article_information_as_dataframe().keys()
+crawler.get_article_information_as_dataframe().keys()
 Index(['title', 'summary', 'author', 'published', 'link', 'tags', 'text'], dtype='object')```
