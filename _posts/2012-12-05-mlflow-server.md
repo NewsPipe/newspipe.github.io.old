@@ -13,7 +13,7 @@ MLFlow-server is a docker application to run an MLFlow-server on your computer. 
 ## Getting Started
 **Git clone:**
 ```git clone https://github.com/NewsPipe/mlflow-server.git
-cd simple-heroku-mlflow-server```
+cd mlflow-server```
 
 **Create a .env file with settings:**
 
