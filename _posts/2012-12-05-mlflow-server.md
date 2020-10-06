@@ -21,5 +21,5 @@ cd simple-heroku-mlflow-server```
 MLFLOW_TRACKING_PASSWORD=pass```
 
 ## Start locally with docker
-**Start container:**
+
 ```docker-compose up --build```
