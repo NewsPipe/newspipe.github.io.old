@@ -14,11 +14,9 @@ The whole application is dockerized and can be started with docker-compose. A de
 
 ## Getting started
 **Download code and go to project folder:**
-```
-git clone https://github.com/NewsPipe/newsgen.git
-cd newsgen
-```
+```git clone https://github.com/NewsPipe/newsgen.git
+cd newsgen```
 
-Afterward read the `README.md` at:
+Afterward read the README.md at:
 - `webapp`: to start the react frontend
 - `gpt2-service`: to start the scala play service
