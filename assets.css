@@ -502,6 +502,10 @@ code {
   margin-bottom: 20px;
   padding: 5px 10px;
 }
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #eb9486;
+  opacity: 0.5; /* Firefox */
+}
 #sidebar input:active,
 #sidebar input:focus {
   border-color: #ccc;
