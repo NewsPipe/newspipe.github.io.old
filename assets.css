@@ -416,11 +416,11 @@ textarea {
 }
 
 a {
-  color: #eb9486;
+  color: #D8887B;
   text-decoration: none;
 }
 a:hover {
-  color: #29aeef;
+  color: #eb9486;
   text-decoration: underline;
 }
 
@@ -543,7 +543,7 @@ code {
   padding: 15px;
 }
 #content article > a:hover {
-  background: #eb9486;
+  background: #D8887B;
   text-decoration: none;
 }
 
